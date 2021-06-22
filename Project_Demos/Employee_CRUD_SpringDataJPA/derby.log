@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Fri May 22 20:01:46 IST 2020:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0172-3ccc-0fe6-000009272ce0 
+on database directory memory:C:\Sanjay Data Backup\java\springboot_youtube\Employee_CRUD_SpringDataJPA\7d1099f8-bb23-4b3f-ae27-2f7c050f70d2 with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
+Loaded from file:/C:/Users/sdegaonk/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_162-b12
+user.dir=C:\Sanjay Data Backup\java\springboot_youtube\Employee_CRUD_SpringDataJPA
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 22 20:19:34 IST 2020:
+Shutting down instance a816c00e-0172-3ccc-0fe6-000009272ce0 on database directory memory:C:\Sanjay Data Backup\java\springboot_youtube\Employee_CRUD_SpringDataJPA\7d1099f8-bb23-4b3f-ae27-2f7c050f70d2 with class loader sun.misc.Launcher$AppClassLoader@764c12b6 
